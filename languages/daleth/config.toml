@@ -1,0 +1,9 @@
+name = "daleth"
+grammar = "daleth"
+path_suffixes = ["dlth"]
+line_comments = ["# "]
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "\"", end = "\"", close = true, newline = false },
+]

@@ -1,0 +1,11 @@
+id = "daleth"
+name = "daleth"
+description = "daleth support."
+version = "0.1.0"
+schema_version = 1
+authors = ["Artemy Egorov <me@artegoser.ru>"]
+repository = "https://github.com/TxtDot/daleth-zed"
+
+[grammars.daleth]
+repository = "https://github.com/TxtDot/tree-sitter-daleth"
+commit = "907a64da23d2680d9c9078a09498107a3e8b2b17"
