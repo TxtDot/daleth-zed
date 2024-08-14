@@ -2,6 +2,8 @@ name = "daleth"
 grammar = "daleth"
 path_suffixes = ["dlth"]
 line_comments = ["# "]
+autoclose_before = "]}"
+tab_size = 4
 brackets = [
     { start = "{", end = "}", close = true, newline = true },
     { start = "[", end = "]", close = true, newline = true },
