@@ -8,4 +8,4 @@ repository = "https://github.com/TxtDot/daleth-zed"
 
 [grammars.daleth]
 repository = "https://github.com/TxtDot/tree-sitter-daleth"
-commit = "4d3207c80dcef793db7c9bc700f8265eb707c9ad"
+commit = "61e453fa40061da9584ba1eaad7f3847ca6a8df8"
