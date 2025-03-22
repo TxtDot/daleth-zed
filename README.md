@@ -1,2 +1,3 @@
-# daleth-zed
-Zed extension for daleth support
+# dalet-zed
+
+Zed extension for dalet support
